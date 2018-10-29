@@ -1,0 +1,38 @@
+[
+	{
+		"hitpoints": 100.0,
+		"interactRange": 0.6,
+		"attackSpeed": 1.5,
+		"name": "zombie",
+		"width": 0.2,
+		"ai": [
+			"randomWalk"
+		],
+		"maxSpeed": 1.0,
+		"attackDamage": 25.0
+	},
+	{
+		"hitpoints": 100.0,
+		"interactRange": 0.6,
+		"attackSpeed": 1.5,
+		"name": "player",
+		"width": 0.25,
+		"ai": [
+			"checkInput"
+		],
+		"maxSpeed": 2.5,
+		"attackDamage": 25.0
+	},
+	{
+		"hitpoints": 100.0,
+		"interactRange": 1.0,
+		"attackSpeed": 0,
+		"name": "npc",
+		"width": 0.2,
+		"ai": [
+			"interact"
+		],
+		"maxSpeed": 2.0,
+		"attackDamage": 0
+	}
+]

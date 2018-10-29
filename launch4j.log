@@ -1,0 +1,14 @@
+
+
+Version:	3.10
+CmdLine:	C:\Users\Wout\Downloads\Block3DGame\Block3DGame2.exe --l4j-debug
+WOW64:		yes
+Working dir:	C:\Users\Wout\Downloads\Block3DGame\.
+Java min ver:	1.8.0
+Java max ver:	
+Bundled JRE:	C:\Program Files\Java\jre1.8.0_191
+Check launcher:	C:\Program Files\Java\jre1.8.0_191\bin\javaw.exe (OK)
+Launcher:	C:\Program Files\Java\jre1.8.0_191\bin\javaw.exe
+Launcher args:	-jar "C:\Users\Wout\Downloads\Block3DGame\Block3DGame2.exe"
+Args length:	59/32768 chars
+Exit code:	0
